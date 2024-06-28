@@ -1,0 +1,4 @@
+run api in api dir
+python -m uvicorn main:app --reload
+
+mysql-connector-python

@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+asyncmy
+
+pip install mysql-connector-python or pip install pymysql
